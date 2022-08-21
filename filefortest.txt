@@ -1,0 +1,4 @@
+this file was made by command echo in terminal
+This text is edited in text editor
+
+edit for commit
